@@ -1,4 +1,6 @@
 ## Hi there 👋
+I used Beautiful Soup because it was easier to use for smaller webscraper projects
+I went through the wiki page and looked at how each category was setup before i started coding for each one. I used VScode to write the codes for each webscraper.
 
 <!--
 **Kevinc1779/Kevinc1779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
